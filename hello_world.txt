@@ -1,0 +1,5 @@
+I am learning basics of Git
+Currently able to use the following commands
+git add
+git commit -m
+git status
